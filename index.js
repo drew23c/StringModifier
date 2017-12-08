@@ -57,7 +57,7 @@ const homepage = `
     <script src="app.js"></script>
     </head>
   <body>
-    <h1>Mid Program String Modifier</h1>
+    <h1>String Modifier</h1>
     <input id="str" type="text" name="string"
            placeholder="type a string">
     <p id="modP">modified strong goes here</p>
